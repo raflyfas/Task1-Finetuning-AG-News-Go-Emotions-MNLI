@@ -8,6 +8,15 @@ Notebook utama:
 
 ---
 
+## Group 6 – Deep Learning
+
+| Nama | NIM |
+|---------|------|
+| Rahmanda Afebrio Yuris Soesatyo | 1103223024 |
+| Rafly Fasha Purnomo Putra | 1103223050 |
+
+---
+
 ## Environment & Tools
 
 - Python 3.x  
@@ -97,13 +106,3 @@ Menentukan hubungan antara pasangan kalimat (premise dan hypothesis) dengan labe
 ## Visualisasi
 
 Notebook menyertakan visualisasi distribusi data serta monitoring proses training dan evaluasi model.
-
----
-
-## Author
-
-Group 6 - Deep Learning
-Rafly Fasha Purnomo Putra - 1103223050
-Rahmanda Afebrio Yuris Soesatyo - 1103223024
-Final Term — Deep Learning  
-Computer Engineering
