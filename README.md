@@ -90,7 +90,7 @@ Menentukan hubungan antara pasangan kalimat (premise dan hypothesis) dengan labe
 - Visualisasi distribusi kelas MNLI
 - Preprocessing pasangan kalimat
 - Fine-tuning DistilBERT untuk task NLI
-- Evaluasi performa model
+- Evaluasi performa model yang digunakan
 
 ---
 
